@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> `<p> this is a paragraph`
 Use the left arrow to go back!
